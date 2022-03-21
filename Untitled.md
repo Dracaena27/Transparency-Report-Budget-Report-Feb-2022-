@@ -1,4 +1,4 @@
-[](https://)# February 2022 Budget Statement
+# February 2022 Budget Statement
 
 - *All amounts are in DAI unless stated otherwise.*
 - *Cents have been removed to enhance readability.*
